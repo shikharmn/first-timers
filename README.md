@@ -128,6 +128,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Shikhar Mohan
+- I like learning to code
+- I'm trying to get into development and the open source environment
+- I'm a student at IIT Kharagpur
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
